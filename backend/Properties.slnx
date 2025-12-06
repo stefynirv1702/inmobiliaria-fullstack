@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Test/">
+    <Project Path="Properties.Api.Test/Properties.Api.Test.csproj" Id="92a72ff7-e812-40f5-a7fd-053fd1e45f77" />
+    <Project Path="Properties.Application.Test/Properties.Application.Test.csproj" Id="568b18cf-9781-4b87-961f-1cb9540497cb" />
+    <Project Path="Properties.Infraestructure.Test/Properties.Infraestructure.Test.csproj" Id="6b353b8d-0a3e-4709-9658-09702b2bc466" />
+  </Folder>
+  <Project Path="Properties.API/Properties.API.csproj" />
+  <Project Path="Properties.Application/Properties.Application.csproj" Id="a4ca9c9f-77f4-4a62-bed0-ab5970051cd1" />
+  <Project Path="Properties.Domain/Properties.Domain.csproj" Id="9d1f16af-c701-4701-acfe-e44e341e6e8e" />
+  <Project Path="Properties.Infraestructure/Properties.Infraestructure.csproj" Id="80d064de-5e7e-4528-8f35-6a60b9313329" />
+</Solution>
