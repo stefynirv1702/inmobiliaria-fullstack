@@ -3,6 +3,7 @@
 Este proyecto consta de un **backend** en .NET 8, un **frontend** en React y una base de datos **SQL Server**. Incluye funcionalidades para gestionar **Owners** y **Properties**, así como su historial de transacciones (**PropertyTrace**).
 
 ## BD
+se construyo en sql server.
 Para la base de datos se tiene un .bak con la estructura de la bd y con algunos datos
 
 ---
